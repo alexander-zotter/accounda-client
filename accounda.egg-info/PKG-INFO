@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: accounda
+Version: 1.0.0
+Summary: A Python library for interaction with the Accounda API.
+Home-page: https://github.com/alexander-zotter/accounda
+Author: Accounda
+Author-email: service@accounda.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.20.0
+
 Your `README.md` is your package's first impression! Let's make it informative and welcoming. Here's a good structure:
 
 ---
