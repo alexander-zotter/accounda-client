@@ -48,7 +48,7 @@ You can configure the base URL if needed:
 client = AccoundaClient(
     client_id="your_client_id",
     client_secret="your_client_secret",
-    url="https://custom.api.url/v1/"
+    url="https://api.accounda.com/v1/"
 )
 ```
 
@@ -56,7 +56,7 @@ client = AccoundaClient(
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/accounda.git
+git clone https://github.com/alexander-zotter/accounda-client.git
 cd accounda
 ```
 

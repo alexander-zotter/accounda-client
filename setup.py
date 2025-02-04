@@ -6,13 +6,13 @@ with open("README.md", "r", encoding="utf-8") as fh:  # Explicit UTF-8 encoding
 
 setup(
     name="accounda",
-    version="1.0.0",
+    version="0.1.0",
     description="A Python library for interaction with the Accounda API.",
     long_description=long_description,  # Adds a long description for PyPI
     long_description_content_type="text/markdown",  # Tells PyPI to interpret as Markdown
     author="Accounda",
     author_email="service@accounda.com",
-    url="https://github.com/alexander-zotter/accounda",
+    url="https://github.com/alexander-zotter/accounda-client",
     packages=find_packages(),
     install_requires=[
         "requests>=2.20.0",
