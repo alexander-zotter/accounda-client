@@ -62,7 +62,7 @@ cd accounda
 
 ### Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements
 ```
 
 ### Running Tests
